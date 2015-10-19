@@ -1,10 +1,10 @@
 # On-The-Job Project for Formstack
-## by Kerri Couillard
-kerri@santafewebprogramming.com 505-231-8370
+## by Kerri Couillard kerri@santafewebprogramming.com 505-231-8370
 
-On-The-Job Project URL: *http://fampad.com*
-Public GitHub Repo: *https://github.com/kcouillard/formstack*
+### On-The-Job Project URL: *http://fampad.com*
+### Public GitHub Repo: *https://github.com/kcouillard/formstack*
 
+## My First Attempt ...
 Initially, I had considered that I was Formstack’s customer.  I am a web developer for companies opting to utilize usually more than one API so that
 they can have a totally custom website rather than use out-of-the-box portal type websites.  Currently, I am working on a customer who is using the
 Escapia (Homeaway Owned Vacation Rental Management Software) API.  The heavily use Google Analytics but they aren’t getting any data from any of
@@ -22,6 +22,7 @@ I successfully implemented the advance search form as a test to try and see what
 I was hoping to gain the insight as to what most people were searching for, in order to present back to the company, the most popular search parameters.
 This information could help them determine exactly how to grow their inventory best for their customers.
 
+## Final Project - Mashup for Address Validation and Match ...
 I realized that Formstack doesn’t do much field analysis right now and I came to a new conclusion. I think the most interesting position for me at Formstack
 would be that of *Software Developer - Attribution and Analytics*, rather than what I initially applied for, being Form Conversions.
 
@@ -36,7 +37,7 @@ I signed up for a 30 day free trial with Service Objects in order to do Address 
 - Password: mghB7xDd
 - API Trial Key: WS72-SHR1-FOT4
 
-Work Description:
+## Work Description:
 - In-depth R&D on Formstack
 - Integrated Formstack with Escapia UnitSearch methods http://kokopellipropertiessantefe.com/vrentals/formstack
 - Form built in Formstack with hidden field
