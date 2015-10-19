@@ -12,9 +12,13 @@ I wanted to do a Formstack and Escapia API mashup. The company that I am working
 but they aren’t getting any data specifically from any of their form fields or submits.
 
 I had planned to have a series of Formstack Escapia forms that tracked and gained insights from their form fields and submits:
+
 1. Advanced Search Form (calls out to Escapia software via API to get properties that match the inputs)
+
 2. Inquire Form (sends an inquiry about a property into the Escapia software via API)
+
 3. Get Quote Form (requests price for a property based on inputs to the Escapia software via API)
+
 4. Make Reservation Form (books a property based on inputs in the Escapia software via API)
 
 I successfully implemented the advance search form as a test to try and see what field analysis was happening or available from within Formstack.
