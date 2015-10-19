@@ -5,7 +5,7 @@
 ### Public GitHub Repo: *https://github.com/kcouillard/formstack*
 
 ## My First Attempt ...
-Initially, I had considered that I was Formstack’s customer or the company I am currently working for would be Formstack's customer.
+Initially, I had considered that I was Formstack’s customer or the company I am currently working for, would be Formstack's customer.
 I am a web developer for a company who is using more than one API since they specialize in BOTH long-term and short-term/vacation rentals.
 They want a totally custom website since the very basic portal/template that both of the API owners provide doesn't include the other, and visa-versa.
 I wanted to do a Formstack and Escapia API mashup. The company that I am working with uses Google Analytics heavily,
@@ -13,16 +13,9 @@ but they aren’t getting any data specifically from any of their form fields or s
 
 I had planned to have a series of Formstack Escapia forms that tracked and gained insights from their form fields and submits:
 1. Advanced Search Form (calls out to Escapia software via API to get properties that match the inputs)
-  - tell them what their customers want exactly
-  - what are the most valuable amenities/dates for arrival and departure
 2. Inquire Form (sends an inquiry about a property into the Escapia software via API)
-  - what are the most popular houses
-  - compare to this to online booking form, some still want to inquire and book over phone
 3. Get Quote Form (requests price for a property based on inputs to the Escapia software via API)
-  - who gets quote and doesn't book
 4. Make Reservation Form (books a property based on inputs in the Escapia software via API)
-
-And so on, lots of new form data to collect here.
 
 I successfully implemented the advance search form as a test to try and see what field analysis was happening or available from within Formstack.
 *http://kokopellipropertiessantefe.com/vrentals/formstack*
