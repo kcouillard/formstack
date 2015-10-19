@@ -1,0 +1,20 @@
+body {
+	color: #424142;
+}
+h1, h2, h3, h4 {
+	color: #6b4c6c;
+}
+.required {
+	font-size: .8em;
+	color: #b17270;
+}
+
+.btn-primary {
+	background-color: #6b4c6c;
+	border-color: #876688;
+	color: #fff;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+	background-color: #876688;
+	border-color: #987c99;	
+}
